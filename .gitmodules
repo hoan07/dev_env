@@ -1,0 +1,3 @@
+[submodule "kratos_core"]
+	path = kratos_core
+	url = ./kratos_core
