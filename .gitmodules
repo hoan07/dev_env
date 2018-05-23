@@ -1,3 +1,3 @@
 [submodule "kratos_core"]
 	path = kratos_core
-	url = ./kratos_core
+	url = https://github.com/hoan07/kratos_core
